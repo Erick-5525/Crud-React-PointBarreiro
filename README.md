@@ -14,4 +14,4 @@ Persistência — os dados são salvos no localStorage e permanecem após fechar
 Feedback visual — mensagem de confirmação aparece após cada ação (adicionar, editar, remover)
 Ordenação — lista exibida em ordem alfabética pelo título
 
-rudpointbarreiro.netlify.app
+crudpointbarreiro.netlify.app
